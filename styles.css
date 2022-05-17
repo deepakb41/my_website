@@ -1,0 +1,156 @@
+
+h1 {
+    font-size:500%;
+    margin: 90px auto 0 auto;
+    font-family: 'Dancing Script', cursive;
+    color: #FCDAB7;
+}
+.mech{
+        font-family: 'Press Start 2P', cursive;
+        font-size:80%;
+        color: #FCDAB7;
+}
+h2 {
+    font-family: helvetica,sans-serif;
+    color: #064663;
+    font-weight: normal;
+
+}
+h3 {
+    font-family: helvetica,sans-serif;
+    color:#035397;
+}
+a {
+  color: #11999E;
+}
+.top-container{
+    background-color:#205375;
+    padding-top:100px;
+    position:relative;
+}
+.bottom-container{
+    background-color:#79B4B7;
+    padding-bottom:5px;
+    padding-top:25px;
+
+}
+.middle-container{
+    margin:100px 0;
+
+}
+body {
+    margin:0px;
+    text-align:center;
+    font-family:georgia,serif;
+    color:#444444;
+}
+.left-cloud{
+    position:absolute;
+    left:230px;
+    top:225px;
+    width:180px;
+}
+.right-cloud{
+    position:absolute;
+    left:970px;
+    top:120px;
+    width:180px;
+}
+.sun{
+    position:absolute;
+    left:780px;
+    top:230px;
+    width:30px;
+}
+.flag{
+    position:absolute;
+    left:503px;
+    top:410px;
+    width:40px;
+}
+.hiker{
+    position:absolute;
+    left:415px;
+    top:450px;
+    width:40px;
+    transform: rotate(-20deg);
+}
+.eng{
+    position:absolute;
+    left:835px;
+    top:370px;
+    width:50px;
+}
+.mountain{
+    width:1420px;
+    height:320px;
+
+}
+.wind{
+    position:absolute;
+    left:415px;
+    top:350px;
+    width:100px;
+   }
+
+.deepak{
+    width:15%;
+    margin-top:10px;
+}
+.my-desc{
+    margin: 5px 250px 5px 250px;
+    }
+p{
+    line-height:2;
+    }
+.skill-row{
+    width:50%;
+    margin:50px auto 100px auto;
+    text-align:left;
+    line-height:2;
+}
+.skill-row1{
+    width:50%;
+    margin:100px auto 100px auto;
+    text-align:left;
+    line-height:2;
+}
+.soft-img{
+    width:25%;
+    margin-right:30px;
+    float:left;
+}
+.code-img{
+    width:25%;
+    margin-left:30px;
+    float:right;
+}
+.contact-me{
+    margin:100px;
+    }
+
+.img-btn{
+    width:8%;
+    }
+.link-btn{
+    width:2%;
+    margin:7px;
+    }
+.insta-btn{
+    width:2%;
+    margin:7px;
+    }
+.fb-btn{
+    width:2%;
+    margin:7px;
+    }
+hr{
+    border-style:dotted None None None;
+    width:10%;
+    border-width:10px;
+    border-color:#C8E3D4;
+    }
+.copyright{
+    color:#EAF6F6;
+    font-size:13px;
+    }
